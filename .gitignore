@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archives (optional local builds)
+*.zip
+
+# Editor
+.vscode/
+.idea/
