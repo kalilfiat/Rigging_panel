@@ -183,4 +183,4 @@ Uso libre para estudio y proyectos personales. Ajustá la licencia (MIT, GPL, et
 
 ## Autor
 
-**TechArt Tools** — Formación TechArt
+**Kalil Fiat**
